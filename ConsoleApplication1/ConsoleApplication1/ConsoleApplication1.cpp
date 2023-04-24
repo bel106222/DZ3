@@ -3,6 +3,12 @@
 
 #include <iostream>
 
+void master1()
+{
+
+}
+
+
 int main()
 {
     std::cout << "Hello World!\n";
