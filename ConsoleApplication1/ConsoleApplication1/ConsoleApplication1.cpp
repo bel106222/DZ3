@@ -38,6 +38,11 @@ void master5()
 
 }
 
+void denis1()
+{
+    
+}
+    
 int main()
 {
     std::cout << "Hello World!\n";
