@@ -8,6 +8,15 @@ void master1()
 
 }
 
+void master2()
+{
+
+}
+
+void master3()
+{
+
+}
 
 int main()
 {
