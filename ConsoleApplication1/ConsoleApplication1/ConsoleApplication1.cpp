@@ -23,6 +23,11 @@ void master4()
 
 }
 
+void alyona1()
+{
+
+}
+
 int main()
 {
     std::cout << "Hello World!\n";
