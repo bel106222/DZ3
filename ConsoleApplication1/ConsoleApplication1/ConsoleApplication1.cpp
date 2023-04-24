@@ -18,6 +18,11 @@ void master3()
 
 }
 
+void master4()
+{
+
+}
+
 int main()
 {
     std::cout << "Hello World!\n";
